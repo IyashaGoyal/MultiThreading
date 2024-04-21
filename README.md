@@ -25,3 +25,12 @@ Plot the number of threads against the execution times using matplotlib.pyplot.p
 # Observations and Analysis:
 Based on the recorded execution times, analyze the performance of matrix multiplication with varying thread counts. Identify the optimal number of threads that minimizes computation time for this specific task.
 We observe that the minimum time is taken when the the number of threads are 5.
+
+![image](https://github.com/IyashaGoyal/MultiThreading/assets/144591074/c0e491ff-5c54-4bf9-bafe-080852eb2d1c)
+
+![image](https://github.com/IyashaGoyal/MultiThreading/assets/144591074/acb07188-9a2b-430c-b353-3be493576ea3)
+
+![image](https://github.com/IyashaGoyal/MultiThreading/assets/144591074/c36c584c-9645-4a47-a7dc-bb61d4f04e9d)
+
+
+
