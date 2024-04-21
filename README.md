@@ -5,17 +5,17 @@ The objective of this assignment is to implement matrix multiplication using mul
 
 # Methodology:
 
-# Matrix Multiplication Function:
+## Matrix Multiplication Function:
 Define a function multiply_matrices() to perform matrix multiplication using numpy.dot() for two input matrices A and B. The result is stored in a designated index of the result array.
 
-# Thread Utilization Function:
+## Thread Utilization Function:
 Implement run_threads() to execute matrix multiplication using a specified number of threads. This function initializes a list of threads and iterates over a list of matrices, creating a new thread for each multiplication operation. Each thread is started and joined to ensure all threads complete their tasks.
 
-# Matrix Generation:
+## Matrix Generation:
 Generate a constant matrix A of size 1000x1000 using numpy.random.rand().
 Create a list of 100 random matrices of the same size for multiplication with matrix A.
 
-# Execution:
+## Execution:
 Invoke run_threads() for each number of threads (1-10) and record the time taken for each operation.
 
 # Results Presentation:
